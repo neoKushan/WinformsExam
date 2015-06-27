@@ -13,6 +13,10 @@ The basic premise is the "FizzBuzz" test, but in a boilerplate Winforms applicat
 
 The candidate should pay particular attention to the brief above, i.e. they shouldn't start from 0 and they shouldn't print any numbers divisible by 3 or 5.
 
+## Technical requirements
+
+This project was created with Visual Studio 2013, but it should run on most versions of Visual Studio. It has no dependencies other than the .net Framework.
+
 ## Anything else?
 
 There are a few extra bits the candidate can fix/tweak to improve the solution as a whole, from a winforms perspective:
