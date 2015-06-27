@@ -3,7 +3,7 @@ A Simple code exam to determine if a candidate is capable of using Winforms and 
 
 ## Why?
 
-We recently had to hire a new Developer to work on some of our legacy winforms applications. I needed to ensure that the candiate was capable of using C# and can deal with Winforms.
+We recently had to hire a new Developer to work on some of our legacy winforms applications. I needed to ensure that the candidate was capable of using C# and can deal with Winforms.
 
 ## Premise
 
@@ -24,4 +24,4 @@ There are a few extra bits the candidate can fix/tweak to improve the solution a
 
 ## Final Note
 
-If you feel this "exam" is far too simple, then be aware that 50% of the candiates that took it could not complete the most basic aspect of it. Another 25% took over 30mins to finish it and only about 25% of candidates were able to complete the assignment in what I would deem a reasonable amount of time.
+If you feel this "exam" is far too simple, then be aware that 50% of the candidates that took it could not complete the most basic aspect of it. Another 25% took over 30mins to finish it and only about 25% of candidates were able to complete the assignment in what I would deem a reasonable amount of time.
